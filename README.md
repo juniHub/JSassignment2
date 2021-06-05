@@ -1,2 +1,2 @@
 ### Simple form to show your pet's name
-- [Demo](https://junihub.github.io/JSassignment2/)
+- [Live Demo](https://junihub.github.io/JSassignment2/)
